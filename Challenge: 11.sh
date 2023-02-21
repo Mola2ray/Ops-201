@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script: Ops 201 Class 03 Ops Challenge Solution 
+# Script: Ops 201 Class 11 Ops Challenge Solution 
 # Author: Lamin Touray
 # Date of latest revision:
 # Purpose: Your script should perform the following:
